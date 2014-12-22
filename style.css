@@ -1,0 +1,13 @@
+.player {
+  font-size: 1.55em;
+  line-height: 2.5em;
+  border-bottom: 1px dashed #eee;
+}
+
+span.glyphicon.glyphicon-chevron-up:hover {
+  color: green;
+}
+
+span.glyphicon.glyphicon-chevron-down:hover {
+  color: red;
+}
